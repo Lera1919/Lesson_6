@@ -186,6 +186,7 @@ button>span, button {
 /************ effect 4 ******************/
 
 .btn4:hover button{
+
     background-color: #78c7d2;
     animation: shine infinite;
     animation-duration: 4s;
